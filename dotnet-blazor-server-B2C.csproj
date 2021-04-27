@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
-    <UserSecretsId>aspnet-dotnet_blazor_server_B2C-7F4527A8-63CF-496F-A748-1043AACA1627</UserSecretsId>
+    <UserSecretsId>aspnet-dotnet_blazor_server_B2C-0FFA0517-6F17-4D19-9AFB-51D1B4E61104</UserSecretsId>
     <RootNamespace>dotnet_blazor_server_B2C</RootNamespace>
   </PropertyGroup>
 
